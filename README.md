@@ -9,7 +9,7 @@
 
 - A Computational Social Science student @ University of Chicago
 - A passionate Computer Scientist & Researcher
-- I’m currently open for a new job opportunity in ***Data Engineering*** and ***Data Science***
+- I’m currently open for a new job opportunity in ***Software Engineering*** and ***Data Engineering***
 - In my free time, I love to go to the gym, boulder, and reading
 
 <br>
