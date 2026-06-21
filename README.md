@@ -58,6 +58,7 @@
     ![GitLab](https://img.shields.io/badge/GitLab-grey?logo=gitlab&style=flat-square)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+    ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
     ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
     ![R Studio](https://img.shields.io/badge/R%20Studio-FFFFFF?style=flat-square&logo=RStudio&logoColor=lighblue)
 
