@@ -60,7 +60,7 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
     ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
     ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-    ![R Studio](https://img.shields.io/badge/R%20Studio-FFFFFF?style=flat-square&logo=RStudio&logoColor=lighblue)
+    ![R Studio](https://img.shields.io/badge/R%20Studio-FFFFFF?style=flat-square&logo=RStudio&logoColor=lightblue)
 
 </p>
 
@@ -74,11 +74,11 @@
 
 - :cloud: Cloud Computing Project: [Genomic Annotation Service](https://github.com/MPCS-51083-Cloud-Computing/final-project-Ry-Wu)
 
-- :zap: Large-Scale Computing Project: [The Effect of Emotion on Information Engagement](https://github.com/macs30123-s23/final-project-drink_more_code_more)
+- :zap: Large-Scale Computing Classification Project: [The Effect of Emotion on Information Engagement](https://github.com/macs30123-s23/final-project-drink_more_code_more)
 
 - :hammer_and_wrench: Full-Stack Software Engineering Project: [Data For Good - Chicago](https://github.com/uchicago-capp-30320/DataForGood-chicago)
 
-- :pill: Machine Learning Project: [Drug Review Sentiment Analysis](https://github.com/Ry-Wu/Drug-Review-Sentiment-Analysis-ML)
+- :pill: Machine Learning Classification Project: [Drug Review Sentiment Analysis](https://github.com/Ry-Wu/Drug-Review-Sentiment-Analysis-ML)
 
 - :balance_scale: Data Science Research Project: [Gender Inequality and Crime against Women in the U.S.](https://github.com/macs30122-winter23/final-project-233-not-found)
 
