@@ -72,7 +72,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Projects </b>
 <br>
 
-- :cloud: Cloud Computing Project: [Genomic Annotation Service](https://github.com/MPCS-51083-Cloud-Computing/final-project-Ry-Wu)
+- :cloud: Cloud Computing Project: [Genomic Annotation Service](https://github.com/Ry-Wu/Cloud-Computing---GAS)
 
 - :zap: Large-Scale Computing Classification Project: [The Effect of Emotion on Information Engagement](https://github.com/macs30123-s23/final-project-drink_more_code_more)
 
