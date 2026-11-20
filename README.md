@@ -8,9 +8,8 @@
 <br>
 
 - A Computational Social Scientist
-- A passionate Computer Scientist & Researcher
-- I’m currently open for a new job opportunity in ***Software Engineering*** and ***Data Engineering***
-- In my free time, I love to go to the gym, boulder, and reading
+- A passionate Computer Scientist & Data Engineer
+- In my free time, I love to go to the gym, rock climbing, and reading
 
 <br>
 
